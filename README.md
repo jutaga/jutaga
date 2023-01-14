@@ -50,7 +50,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 <br/>
 
 <a href="https://github.com/jutaga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jutaga&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=jutaga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jutaga&theme=buefy&layout=compact" />
 </a>
 

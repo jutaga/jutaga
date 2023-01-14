@@ -1,10 +1,10 @@
+# Hey there! 🤝 Welcome to my profile.
 
 
-<h2> Hey there! I'm Juan pablo.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
+- 🤔 &nbsp; I'm Juan pablo,  I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 - 🎓 &nbsp; Right now, I am improving my soft skills.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -49,10 +49,12 @@ I really enjoy investing my time in technology projects, watch how all the piece
  
 <br/>
 
-<a href="https://github.com/jutaga">
-  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=jutaga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jutaga&theme=buefy&layout=compact" />
-</a>
+## Check some of my stats
+
+| *GitHub Stats* | *Programming Languages* |
+---|---  
+| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutaga&show_icons=true&theme=slateorange ) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutaga&layout=compact&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats) |
+
 
 <br/>
 

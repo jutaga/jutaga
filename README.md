@@ -17,11 +17,9 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -31,7 +29,7 @@
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces
 - [CRUD Angular](https://github.com/jutaga/CRUD-Heroes)
-- [API Rest Country Angular](https://github.com/jutaga/PaisesApp)
+- [API RESTCOUNTRY Angular](https://github.com/jutaga/PaisesApp)
 - [API Gif Searcher with Angular](https://github.com/jutaga/Giffs-App)
 - [API MARVEL WITH ANGULAR](https://github.com/jutaga/Api-Marvel)
 - [API Images Searcher with Javascript](https://github.com/jutaga/ImagenesAPI)
@@ -46,8 +44,10 @@ I really enjoy investing my time in technology projects, watch how all the piece
 - [Car Shop](https://github.com/jutaga/Carrito-LS)
 - [Cafeteria SASS](https://github.com/jutaga/Cafeteria/tree/main)
 - [Tweets Simulator](https://github.com/jutaga/Tweets)
+- [Nucleus-eWallet](https://github.com/jutaga/Nucleus-eWallet)
 - [Headphone](https://github.com/jutaga/Audifonos)
 - [DeliveryApp Website](https://github.com/jutaga/AppDelivery-SASS)
+- [Arquitecture Website](https://github.com/jutaga/Arquitectura)
 - [Gastos](https://github.com/jutaga/Gastos)
 - [PodCast FM](https://github.com/jutaga/PodCast)
 - [Airbnb-sass](https://github.com/jutaga/sass-airbnb)

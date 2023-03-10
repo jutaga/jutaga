@@ -31,6 +31,7 @@
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces
 - [CRUD Angular](https://github.com/jutaga/CRUD-Heroes)
+- [API Rest Country Angular](https://github.com/jutaga/PaisesApp)
 - [API Gif Searcher with Angular](https://github.com/jutaga/Giffs-App)
 - [API MARVEL WITH ANGULAR](https://github.com/jutaga/Api-Marvel)
 - [API Images Searcher with Javascript](https://github.com/jutaga/ImagenesAPI)
@@ -45,10 +46,8 @@ I really enjoy investing my time in technology projects, watch how all the piece
 - [Car Shop](https://github.com/jutaga/Carrito-LS)
 - [Cafeteria SASS](https://github.com/jutaga/Cafeteria/tree/main)
 - [Tweets Simulator](https://github.com/jutaga/Tweets)
-- [Nucleus-eWallet](https://github.com/jutaga/Nucleus-eWallet)
 - [Headphone](https://github.com/jutaga/Audifonos)
 - [DeliveryApp Website](https://github.com/jutaga/AppDelivery-SASS)
-- [Arquitecture Website](https://github.com/jutaga/Arquitectura)
 - [Gastos](https://github.com/jutaga/Gastos)
 - [PodCast FM](https://github.com/jutaga/PodCast)
 - [Airbnb-sass](https://github.com/jutaga/sass-airbnb)

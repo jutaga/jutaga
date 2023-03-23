@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm Juan pablo,  I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
+- 🤔 &nbsp; I'm Juan pablo,  I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java,TypeScript, React and Angular, Feel free to reach out!
 - 🎓 &nbsp; Right now, I am improving my soft skills.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm Juan pablo,  I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java,TypeScript, React and Angular, Feel free to reach out!
+- 🤔 &nbsp; I'm Juan pablo,  I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java,TypeScript, React , Feel free to reach out!
 - 🎓 &nbsp; Right now, I am improving my soft skills.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -15,9 +15,9 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
   
 - ⚙️ &nbsp;
@@ -28,29 +28,12 @@
   
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces
-- [CRUD Angular](https://github.com/jutaga/CRUD-Heroes)
-- [API RESTCOUNTRY Angular](https://github.com/jutaga/PaisesApp)
-- [API Gif Searcher with Angular](https://github.com/jutaga/Giffs-App)
-- [API MARVEL WITH ANGULAR](https://github.com/jutaga/Api-Marvel)
-- [API Images Searcher with Javascript](https://github.com/jutaga/ImagenesAPI)
-- [API Recipes Searcher](https://github.com/jutaga/RecetasAPI)
-- [API Cryptos Consulting](https://github.com/jutaga/CriptoMonedas-API)
-- [API Weather Consulting](https://github.com/jutaga/ConsultarClimaAPI)
-- [Dates Management](https://github.com/jutaga/AdministradorCitas)
-- [Loan Calculator with React](https://github.com/jutaga/ReactJS-Cotizador-Prestamos)
-- [Loan Calculator with Vue](https://github.com/jutaga/VueJs-Cotizador-Prestamos)
-- [Email Simulator](https://github.com/jutaga/EnviarEmail)
-- [Filter](https://github.com/jutaga/Buscador)
-- [Car Shop](https://github.com/jutaga/Carrito-LS)
-- [Cafeteria SASS](https://github.com/jutaga/Cafeteria/tree/main)
-- [Tweets Simulator](https://github.com/jutaga/Tweets)
-- [Nucleus-eWallet](https://github.com/jutaga/Nucleus-eWallet)
-- [Headphone](https://github.com/jutaga/Audifonos)
-- [DeliveryApp Website](https://github.com/jutaga/AppDelivery-SASS)
-- [Arquitecture Website](https://github.com/jutaga/Arquitectura)
-- [Gastos](https://github.com/jutaga/Gastos)
-- [PodCast FM](https://github.com/jutaga/PodCast)
-- [Airbnb-sass](https://github.com/jutaga/sass-airbnb)
+
+- [Presupuesto React - TS](https://github.com/jutaga/PresupuestoReact)
+- [GifsApp React](https://github.com/jutaga/gifsApp-React)
+- [To Do React - TS ](https://github.com/jutaga/PendientesAdm)
+- [Cotizador Prestamos React](https://github.com/jutaga/ReactJS-Cotizador-Prestamos)
+- [Cotizador Seguros](https://github.com/jutaga/CotizadorReact)
 
 <br/>
 

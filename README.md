@@ -29,11 +29,25 @@
 ## Projects 🚂
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces
 
+### Projects with React
 - [Presupuesto React - TS](https://github.com/jutaga/PresupuestoReact)
 - [GifsApp React](https://github.com/jutaga/gifsApp-React)
 - [To Do React - TS ](https://github.com/jutaga/PendientesAdm)
 - [Cotizador Prestamos React](https://github.com/jutaga/ReactJS-Cotizador-Prestamos)
 - [Cotizador Seguros](https://github.com/jutaga/CotizadorReact)
+- [Consultar Clima](https://github.com/jutaga/ClimaAppReact)
+
+### Projects JavaScript Vanilla
+- [Administador de gastos](https://github.com/jutaga/Gastos)
+- [Simulador de Email](https://github.com/jutaga/EnviarEmail)
+- [Emulador de Tweets](https://github.com/jutaga/Tweets)
+- [Carrito de compras](https://github.com/jutaga/Carrito-LS)
+- [Administrador de citas](https://github.com/jutaga/AdministradorCitas)
+- [Clima Api](https://github.com/jutaga/ConsultarClimaAPI/)
+- [Recetas Api](https://github.com/jutaga/RecetasAPI/)
+- [Buscador de imagenes](https://github.com/jutaga/ImagenesAPI)
+- [Consultar Criptomonedas Api](https://github.com/jutaga/CriptoMonedas-API)
+- [Filtrar Resultados](https://github.com/jutaga/Buscador)
 
 <br/>
 

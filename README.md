@@ -36,6 +36,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 - [Cotizador Prestamos React](https://github.com/jutaga/ReactJS-Cotizador-Prestamos)
 - [Cotizador Seguros](https://github.com/jutaga/CotizadorReact)
 - [Consultar Clima](https://github.com/jutaga/ClimaAppReact)
+- [JournalApp](https://github.com/jutaga/JournalApp)
 
 ### Projects JavaScript Vanilla
 - [Administador de gastos](https://github.com/jutaga/Gastos)

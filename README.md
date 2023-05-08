@@ -30,6 +30,7 @@
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces
 
 ### Projects with React
+- [MERN - CalendarApp](https://github.com/jutaga/CalendarApp)
 - [Presupuesto React - TS](https://github.com/jutaga/PresupuestoReact)
 - [GifsApp React](https://github.com/jutaga/gifsApp-React)
 - [To Do React - TS ](https://github.com/jutaga/PendientesAdm)

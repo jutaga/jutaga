@@ -38,6 +38,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 - [Cotizador Seguros](https://github.com/jutaga/CotizadorReact)
 - [Consultar Clima](https://github.com/jutaga/ClimaAppReact)
 - [JournalApp](https://github.com/jutaga/JournalApp)
+- [PixabayApi Searcher](https://github.com/jutaga/ImagenesReact)
 
 ### Projects JavaScript Vanilla
 - [Administador de gastos](https://github.com/jutaga/Gastos)

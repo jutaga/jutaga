@@ -51,6 +51,17 @@ I really enjoy investing my time in technology projects, watch how all the piece
 - [Consultar Criptomonedas Api](https://github.com/jutaga/CriptoMonedas-API)
 - [Filtrar Resultados](https://github.com/jutaga/Buscador)
 
+### Projects CSS - SASS
+-[Nucleus Wallet](https://github.com/jutaga/Nucleus-eWallet)
+-[HeadPhonesPage](https://github.com/jutaga/Audifonos)
+-[Ecommerce Store](https://github.com/jutaga/EcommerseCSS-HTML)
+-[RealState](https://github.com/jutaga/RealState)
+-[Airbnb](https://github.com/jutaga/sass-airbnb)
+-[Podcast](https://github.com/jutaga/PodCast)
+-[Architecture store](https://github.com/jutaga/Arquitectura)
+-[DeliveryApp](https://github.com/jutaga/AppDelivery-SASS)
+-[Coffeshop](https://github.com/jutaga/Cafeteria)
+
 <br/>
 
 ## Check some of my stats

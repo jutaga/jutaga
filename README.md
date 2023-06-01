@@ -65,11 +65,8 @@ I really enjoy investing my time in technology projects, watch how all the piece
 
 <br/>
 
-## Check some of my stats
-
-| *GitHub Stats* | *Programming Languages* |
----|---  
-| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutaga&show_icons=true&theme=slateorange ) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutaga&layout=compact&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats) |
+## Check some of my Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutaga&layout=compact&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
